@@ -1,4 +1,4 @@
-# PE_V2X_Reliability (Schéma A)
+# PE_V2X_Reliability
 
 **Langue :** Français | [English](README.md)
 
